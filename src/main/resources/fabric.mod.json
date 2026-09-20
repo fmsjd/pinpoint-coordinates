@@ -3,12 +3,12 @@
 	"id": "pinpoint",
 	"version": "${version}",
 	"name": "Pinpoint",
-	"description": "Temp",
+	"description": "Quickly copy your Minecraft player coordinates with a single key press.",
 	"authors": [
 		"Fred MSJD"
 	],
 	"contact": {
-		"github": "https://github.com/fmsjd/pinpoint",
+		"website": "https://github.com/fmsjd/pinpoint-coordinates",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "CC0-1.0",
